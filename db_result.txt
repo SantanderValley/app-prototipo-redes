@@ -1,0 +1,2 @@
+
+Parse error: syntax error, unexpected token "=", expecting ")" in C:\Users\fermi\Documents\Code\app-prototipo-redes\db_check.php on line 7

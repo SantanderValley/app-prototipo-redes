@@ -1,0 +1,16 @@
+{
+  "Vivetel@P1P3": {
+    "authentication": "WPA2-Personal",
+    "encryption": "CCMP",
+    "signal": "85%",
+    "signal_value": 67,
+    "last_seen": "2025-08-06 08:54:29"
+  },
+  "A56 de Andres": {
+    "authentication": "WPA3-Personal  (H2E)",
+    "encryption": "CCMP",
+    "signal": "97%",
+    "signal_value": 67,
+    "last_seen": "2025-08-06 22:17:39"
+  }
+}

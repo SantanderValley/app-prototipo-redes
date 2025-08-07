@@ -1,0 +1,17 @@
+[Sun May 25 22:59:37 2025] PHP 8.2.12 Development Server (http://localhost:3000) started
+[Sun May 25 22:59:37 2025] [::1]:14691 Accepted
+[Sun May 25 22:59:37 2025] [::1]:14692 Accepted
+[Sun May 25 22:59:37 2025] [::1]:14691 [302]: GET /
+[Sun May 25 22:59:37 2025] [::1]:14691 Closing
+[Sun May 25 22:59:37 2025] [::1]:14692 [200]: GET /login.php
+[Sun May 25 22:59:37 2025] [::1]:14692 Closing
+[Sun May 25 23:00:25 2025] [::1]:14741 Accepted
+[Sun May 25 23:00:25 2025] [::1]:14742 Accepted
+[Sun May 25 23:00:25 2025] [::1]:14741 [302]: POST /login.php
+[Sun May 25 23:00:25 2025] [::1]:14741 Closing
+[Sun May 25 23:00:25 2025] [::1]:14742 [200]: GET /dashboard.php
+[Sun May 25 23:00:25 2025] [::1]:14742 Closing
+[Sun May 25 23:00:26 2025] [::1]:14747 Accepted
+[Sun May 25 23:00:29 2025] [::1]:14747 [200]: GET /dashboard.php?page=1
+[Sun May 25 23:00:29 2025] [::1]:14747 Closing
+^C

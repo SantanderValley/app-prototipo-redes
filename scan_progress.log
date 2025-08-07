@@ -1,0 +1,18 @@
+Error: La variable de entorno OPENAI_API_KEY no está configurada.
+Base de datos SQLite configurada correctamente.
+=== Iniciando Análisis de Seguridad de Red ===
+
+Obteniendo información de la red WiFi...
+
+[*] Usando nmap para el descubrimiento de dispositivos (más preciso).
+
+[*] Escaneando la red 10.162.68.0/24 con nmap... Esto puede tardar unos minutos.
+[*] Nmap encontró 1 dispositivos.
+[*] Se encontraron 1 dispositivos en total.
+Analizando vulnerabilidades...
+Generando recomendaciones con IA...
+Información guardada en la base de datos SQLite con ID de escaneo: 37
+
+Reporte guardado en: security_report_20250806_221836.pdf
+
+Escaneo finalizado. Archivo de bloqueo eliminado.

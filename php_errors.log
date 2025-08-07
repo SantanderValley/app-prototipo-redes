@@ -1,0 +1,92 @@
+[06-Aug-2025 14:57:02 UTC] Ejecutando comando: C:\xampp\htdocs\redes\myapp/python/python.exe "C:/xampp/htdocs/redes/myapp/wifi_scanner_sqlite.py" 2>&1
+[06-Aug-2025 14:59:36 UTC] Salida del comando: Error: La variable de entorno OPENAI_API_KEY no está configurada.
+Base de datos SQLite configurada correctamente.
+=== Iniciando Análisis de Seguridad de Red ===
+
+Obteniendo información de la red WiFi...
+
+[*] Usando nmap para el descubrimiento de dispositivos (más preciso).
+
+[*] Escaneando la red 192.168.20.0/24 con nmap... Esto puede tardar unos minutos.
+[*] Nmap encontró 2 dispositivos.
+[*] Se encontraron 2 dispositivos en total.
+Analizando vulnerabilidades...
+Generando recomendaciones con IA...
+Información guardada en la base de datos SQLite con ID de escaneo: 19
+
+Reporte guardado en: security_report_20250806_095936.pdf
+
+[06-Aug-2025 14:59:36 UTC] CÃ³digo de retorno: 0
+[06-Aug-2025 15:18:19 UTC] Ejecutando comando: C:\xampp\htdocs\redes\myapp/python/python.exe "C:/xampp/htdocs/redes/myapp/wifi_scanner_sqlite.py" 2>&1
+[06-Aug-2025 15:20:50 UTC] Salida del comando: Error: La variable de entorno OPENAI_API_KEY no está configurada.
+Base de datos SQLite configurada correctamente.
+=== Iniciando Análisis de Seguridad de Red ===
+
+Obteniendo información de la red WiFi...
+
+[*] Usando nmap para el descubrimiento de dispositivos (más preciso).
+
+[*] Escaneando la red 192.168.20.0/24 con nmap... Esto puede tardar unos minutos.
+[*] Nmap encontró 2 dispositivos.
+[*] Se encontraron 2 dispositivos en total.
+Analizando vulnerabilidades...
+Generando recomendaciones con IA...
+Información guardada en la base de datos SQLite con ID de escaneo: 20
+
+Reporte guardado en: security_report_20250806_102050.pdf
+
+[06-Aug-2025 15:20:50 UTC] CÃ³digo de retorno: 0
+[06-Aug-2025 15:26:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\redes\myapp\run_scanner.php:1) in C:\xampp\htdocs\redes\myapp\run_scanner.php on line 25
+[06-Aug-2025 15:26:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\redes\myapp\run_scanner.php on line 32
+[06-Aug-2025 15:26:17 UTC] Ejecutando comando: C:\xampp\htdocs\redes\myapp/python/python.exe "C:/xampp/htdocs/redes/myapp/wifi_scanner_sqlite.py" 2>&1
+[06-Aug-2025 15:30:44 UTC] Salida del comando: Error: La variable de entorno OPENAI_API_KEY no está configurada.
+Base de datos SQLite configurada correctamente.
+=== Iniciando Análisis de Seguridad de Red ===
+
+Obteniendo información de la red WiFi...
+
+[*] Usando nmap para el descubrimiento de dispositivos (más preciso).
+
+[*] Escaneando la red 192.168.20.0/24 con nmap... Esto puede tardar unos minutos.
+[*] Nmap encontró 4 dispositivos.
+[*] Se encontraron 4 dispositivos en total.
+Analizando vulnerabilidades...
+Generando recomendaciones con IA...
+Información guardada en la base de datos SQLite con ID de escaneo: 21
+
+Reporte guardado en: security_report_20250806_103044.pdf
+
+[06-Aug-2025 15:30:44 UTC] CÃ³digo de retorno: 0
+[06-Aug-2025 15:31:54 UTC] Ejecutando comando: C:\xampp\htdocs\redes\myapp/python/python.exe "C:/xampp/htdocs/redes/myapp/wifi_scanner_sqlite.py" 2>&1
+[06-Aug-2025 15:34:29 UTC] Salida del comando: Error: La variable de entorno OPENAI_API_KEY no está configurada.
+Base de datos SQLite configurada correctamente.
+=== Iniciando Análisis de Seguridad de Red ===
+
+Obteniendo información de la red WiFi...
+
+[*] Usando nmap para el descubrimiento de dispositivos (más preciso).
+
+[*] Escaneando la red 192.168.20.0/24 con nmap... Esto puede tardar unos minutos.
+[*] Nmap encontró 2 dispositivos.
+[*] Se encontraron 2 dispositivos en total.
+Analizando vulnerabilidades...
+Generando recomendaciones con IA...
+Información guardada en la base de datos SQLite con ID de escaneo: 22
+
+Reporte guardado en: security_report_20250806_103428.pdf
+
+[06-Aug-2025 15:34:29 UTC] CÃ³digo de retorno: 0
+[06-Aug-2025 15:42:26 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 16:07:14 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 16:12:08 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 16:46:50 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 16:50:45 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 17:02:22 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 17:08:40 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 18:56:21 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 19:00:49 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 22:06:58 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 22:55:22 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 23:38:08 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[06-Aug-2025 23:42:37 UTC] Ejecutando comando en segundo plano: start /B "" "C:\xampp\htdocs\redes\myapp/python/python.exe" "C:\xampp\htdocs\redes\myapp/wifi_scanner_sqlite.py" > "C:\xampp\htdocs\redes\myapp/scan_progress.log" 2>&1
+[07-Aug-2025 03:17:33 UTC] Ejecutando comando en segundo plano: start /B "" "C:\Users\fermi\Documents\Code\app-prototipo-redes/python/python.exe" "C:\Users\fermi\Documents\Code\app-prototipo-redes/wifi_scanner_sqlite.py" > "C:\Users\fermi\Documents\Code\app-prototipo-redes/scan_progress.log" 2>&1
